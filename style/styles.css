@@ -1,0 +1,33 @@
+body { 
+  background: url(../images/clouds.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#mainDiv{
+	text-align: center;
+	margin-top: 10%;
+	width: 40%;
+}
+
+
+
+
+#forecastDiv{
+	text-align: center;
+}
+
+#city{
+	margin: 10% 0;
+}
+
+/*.btn{
+	margin-top: 10%;
+}*/
+
+.alert{
+	width: 35%;
+	margin: 5% auto;
+}
